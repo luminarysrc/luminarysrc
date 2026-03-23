@@ -1,5 +1,5 @@
 # 💫 About Me:
-A student from Polish-Japanese Academy of Information Technology (PJAIT)<br>I’m currently working on interactive Vite integration for CNC-machines<br>17 y/o
+A student from Polish-Japanese Academy of Information Technology (PJAIT)<br>17 y/o
 
 
 ## 🌐 Socials:
