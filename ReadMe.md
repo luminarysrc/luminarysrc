@@ -1,5 +1,5 @@
 # 💫 About Me:
-A student from Polish-Japanese Academy of Information Technology (PJAIT)<br>17 y/o
+A student from Polish-Japanese Academy of Information Technology (PJAIT)<br>18 y/o
 
 
 ## 🌐 Socials:
