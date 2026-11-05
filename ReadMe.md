@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 IT & Systems/Information Management student at PJAIT (Warsaw)
 
 # Projects:
