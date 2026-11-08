@@ -1,4 +1,3 @@
-<img width="256" height="256" alt="icon-256" src="https://github.com/user-attachments/assets/16487f64-840a-47b7-b328-ed4b565f5040" />
 # About Me:
 IT & Systems/Information Management student at PJAIT (Warsaw)
 
