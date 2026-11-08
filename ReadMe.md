@@ -2,9 +2,9 @@
 IT & Systems/Information Management student at PJAIT (Warsaw)
 
 # Projects:
-
-<img width="256" height="256" alt="logo-512" src="https://github.com/user-attachments/assets/c58b062e-af63-44a6-945b-492fbf8dcff7" />Plasma Island – Dynamic Island–style pill for the KDE Plasma 6 top panel: clock, weather (Open-Meteo), calendar with world clocks, and media controls for any MPRIS player. QML / Qt Quick, MIT licensed.
-
+<p align="center">
+<img width="256" height="256" alt="logo-512" src="https://github.com/user-attachments/assets/c58b062e-af63-44a6-945b-492fbf8dcff7" />
+</p>
 Plasma Island – Dynamic Island–style pill for the KDE Plasma 6 top panel: clock, weather (Open-Meteo), calendar with world clocks, and media controls for any MPRIS player. QML / Qt Quick, MIT licensed.
 
 lim (widget for AI coding tool quotas) – a Bash collector prints JSON, a QML UI renders it. HTTPS polling with timeouts and per-provider error reporting, CI with shellcheck and unit tests on GitHub Actions.
