@@ -14,7 +14,7 @@ Plasma Island – Dynamic Island–style pill for the KDE Plasma 6 top panel: cl
 lim (widget for AI coding tool quotas) – a Bash collector prints JSON, a QML UI renders it. HTTPS polling with timeouts and per-provider error reporting, CI with shellcheck and unit tests on GitHub Actions.<br>
 
 <p align="center">
-<img width="256" height="256" alt="ikearf-logo-256" src="https://github.com/user-attachments/assets/9e29bc5e-cf1f-4d27-a49a-ef6d07c0cb70" />
+<img width="256" height="256" alt="logo-256" src="https://github.com/user-attachments/assets/fdab4deb-7f64-4b80-b0e3-07c8d9ca11e3" />
 </p>
 
 G-code tooling software at TexasCabinet - web tool on Google Cloud Run that generates ready-to-run G-code. Cuts the time to a finished file by 90%. Company code, private.
